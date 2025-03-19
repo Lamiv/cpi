@@ -1,6 +1,6 @@
 # 📌 **SAP CPI Security & Authentication Interview Questions**  
 
-## 🔹 **Core Security Concepts in SAP CPI**  
+## 🔹 **Core Security Concepts**  
 1. What is **Security Material** in SAP CPI, and why is it important?  
 2. What are the different types of **authentication mechanisms** supported in CPI?  
 3. How do you manage **user authentication and authorization** in SAP CPI?  
