@@ -1,4 +1,4 @@
-# 📌 **Advanced Integration Patterns & Architectural Concepts in SAP CPI**  
+# 📌 **Advanced Integration Patterns & Architectural Concepts**  
 
 ## 🔹 **Enterprise Integration Patterns (EIP) in CPI**  
 1. What are **Enterprise Integration Patterns (EIP)**, and why are they important in SAP CPI?  
@@ -14,7 +14,7 @@
 9. How do you handle **network latency and data synchronization** in hybrid integration scenarios?  
 10. What are the best practices for ensuring **high availability and failover** in a hybrid integration architecture?  
 
-## 🔹 **API-First vs. Event-Driven Architectures in SAP CPI**  
+## 🔹 **API-First vs. Event-Driven Architectures**  
 11. What is the difference between **API-first and event-driven integrations** in SAP CPI?  
 12. How does **SAP Event Mesh** enable event-driven architecture?  
 13. What is the **Event Choreography pattern**, and how does it improve integration resilience?  
@@ -22,7 +22,7 @@
 15. When should you use **Event Mesh vs. JMS Queues** for event-driven integration?  
 
 ## 🔹 **Message Processing & Performance Optimization**  
-16. How does **Parallel Processing** work in SAP CPI?  
+16. How does **Parallel Processing** work?  
 17. What is the **Message Store pattern**, and when should it be used?  
 18. How do you optimize **message transformations (Groovy/XSLT) in CPI** for better performance?  
 19. How do you implement **Backpressure handling** in event-driven integrations?  
