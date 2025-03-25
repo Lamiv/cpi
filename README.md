@@ -8,6 +8,7 @@ Please update answers for each set under the Answers folder/collection.
 ## Enterprise Integration Patterns
 ### SAP Guidelines
 https://help.sap.com/docs/cloud-integration/sap-cloud-integration/guidelines-to-implement-specific-integration-patterns
-### EIP Book
-https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
-The chapter https://www.enterpriseintegrationpatterns.com/patterns/messaging/Chapter1.html is the best place to start with Integration Patterns. 
+### EIP Book 
+[EIP Book online](https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html)
+
+The [chapter 1](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Chapter1.html) is the best place to start with Integration Patterns. 
