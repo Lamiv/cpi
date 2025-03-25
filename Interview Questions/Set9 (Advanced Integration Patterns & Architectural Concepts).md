@@ -6,6 +6,7 @@
 3. What is the **Splitter pattern**, and when should you use it in CPI?  
 4. How does the **Aggregator pattern** help in message processing?  
 5. What is the **Resequencer pattern**, and how do you implement it in CPI?  
+![image](https://github.com/user-attachments/assets/c1576eb4-17ed-4f7c-bf54-319932044dad)
 
 ## 🔹 **Hybrid Cloud & On-Premise Integration Strategies**  
 6. What are the challenges of **hybrid cloud integrations**, and how does SAP CPI address them?  
